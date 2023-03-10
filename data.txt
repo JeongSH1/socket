@@ -1,0 +1,61 @@
+allow host to dynamically obtain its IP adress from network server when it joins network.
+DHCP
+
+translate the global unique IP adress to private IP adress, also its reverse.
+NAT
+
+obtain subnet reachability information from neighboring ASes.
+eBGP
+
+propagate reachability information to all AS-internal routers.
+iBGP
+
+the layer that moving data from node to close node.
+linklayer
+
+the layer that deal with forwarding and routing.
+networklayer
+
+Identification number that uniquely define the hardware interface.
+MACadress
+
+Identification number that provided for connections on the network.
+IPadress
+
+determines how datagram arriving on router input port is forwarded to router output port in network layer.
+dataplane
+
+determines how datagram is routed among routers along end to end path from source host to destination host.
+controlplane
+
+which allowing some packets to pass or blocking others.
+firewall
+
+the MAC protocol that split the frequency and allocate to nodes.
+FDMA
+
+the MAC protocol that breaking down the channel from a time perspective.
+TDMA
+
+the random access protocol that listen to other channel which sending the data before transmit.
+CSMA
+
+dominant wired LAN technology that is simpler and cheaper than previous technologies.
+Ethernet
+
+the link-layer device that based on MAC address.
+switch
+
+the network-layer device that based on IP address and use .
+router
+
+the protocol that determining MAC address through IP address.
+ARP
+
+the technology that transform hardware equipment to software foundation.
+SDN
+
+the device that connected without going through a router.
+subnet
+
+
